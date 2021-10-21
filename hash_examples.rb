@@ -17,3 +17,12 @@ animal = {
   is_it_a_mammal => true
   number_of_animals => 3
 }
+
+customer = {
+  gender => ['male', 'female', 'other'],
+  age = 40,
+  number_of_customers => 200,
+  is_it_a_new_customer => true,
+  name_of_customer => "John Doe",
+  
+}
