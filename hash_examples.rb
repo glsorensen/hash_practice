@@ -9,3 +9,11 @@ worlds_best_vehicle = {
   model_names => ["Atom", "Electron", "Nuetron"],
   model_class => ["compact", "suv", "truck"]
 }
+
+
+animal = {
+  names_of_animals => ['cat', 'dog', 'horse'],
+  size_of_animal => ['small', 'medium', 'large'],
+  is_it_a_mammal => true
+  number_of_animals => 3
+}
